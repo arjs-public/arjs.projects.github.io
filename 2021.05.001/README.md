@@ -15,6 +15,7 @@ A simple Football Field Composer with hopefully no copyright problems for compos
  - [Tabs, Modalbox by w3schools.com](https://www.w3schools.com/)
  - [Fontawsome Free by fontawsome.com](https://fontawesome.com/)
  - [Checkbox by evanliu2968](https://github.com/EvanLiu2968/el-checkbox/)
+ - [Github Ribbon by Daniel Perez Alvarez](https://www.unindented.org/blog/github-ribbon-using-css-transforms/)
 
 
   
@@ -41,7 +42,7 @@ Insert gif or link to demo
 Clone the project
 
 ```bash
-  git clone https://github.com/arjs-public/2021.05.001.git
+  git clone https://github.com/arjs-public/2021.05.001.git/
 ```
 
 Go to the project directory
