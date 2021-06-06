@@ -34,7 +34,7 @@ A simple Football Field Composer with hopefully no copyright problems for compos
   
 ## Demo
 
-Insert gif or link to demo
+You can try it [here](https://arjs-public.github.io/arjs.projects.github.io/2021.05.001/index.html)
 
   
 ## Run Locally
